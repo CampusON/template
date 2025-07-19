@@ -1,0 +1,27 @@
+# Node.js
+backend/nodejs-api/node_modules/
+backend/nodejs-api/package-lock.json
+
+# Python
+backend/python-api/venv/
+backend/python-api/__pycache__/
+*.pyc
+
+# C#
+backend/csharp-api/bin/
+backend/csharp-api/obj/
+*.user
+
+# Unity
+unity-simulation/Library/
+unity-simulation/Temp/
+unity-simulation/Logs/
+unity-simulation/obj/
+unity-simulation/.vs/
+*.csproj.user
+*.sln
+
+# 기타
+.env
+.DS_Store
+Thumbs.db 
